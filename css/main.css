@@ -57,6 +57,7 @@ body {
   border: transparent;
   padding: 5px 10px;
   margin: 10px;
+  cursor: pointer;
 }
 
 .card-1 .btn {
