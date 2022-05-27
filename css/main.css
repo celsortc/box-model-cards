@@ -43,6 +43,7 @@ body {
   color: #64748b;
 }
 
+/* Estilização geral do button */
 .btn {
   text-transform: capitalize;
   border: transparent;
@@ -53,11 +54,13 @@ body {
   cursor: pointer;
 }
 
+/* Estilização botão rosa */
 .btn-pink {
   background: #ffe8f1;
   color: #ff69a6;
 }
 
+/* Estilização card azul */
 .card-2 {
   border-color: #69a3ff;
 }
@@ -66,6 +69,7 @@ body {
   background: #69a3ff;
 }
 
+/* Estilização botão azul */
 .btn-blue {
   background: #ecf4ff;
   color: #69a3ff;
